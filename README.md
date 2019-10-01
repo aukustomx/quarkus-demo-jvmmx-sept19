@@ -1,6 +1,6 @@
 # Phone Contacts RESTful API using Quarkus
 
-## Bootstraping a application using maven.
+## Bootstraping an application using maven.
 ```bash
 mvn io.quarkus:quarkus-maven-plugin:0.22.0:create \
 -DprojectGroupId=com.jvmmx.quarkus \
